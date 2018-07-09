@@ -27,3 +27,5 @@ react-native run-android
 ## Patching gradle
 
 [According to Upgrade gradle for Android Projects](https://github.com/react-native-community/react-native-camera/blob/master/docs/GradleUpgradeGuide.md) it' was necessary to patch the gradle infrastructure.
+
+* [See all the file changes within the ./android](https://github.com/taboca/doc-js-example-qrcode-cam-example/commit/3594148e93e3ebf12f8d7530c3459e3cab92fe3a)
