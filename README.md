@@ -1,5 +1,7 @@
 ## Working example for QRCode app
 
+![](https://raw.githubusercontent.com/taboca/doc-js-example-qrcode-cam-example/master/doc/20180709_132010.gif)
+
 This project is the result of an attempt to get a QRCODE scanner Android application working using React-native and the following packages:
 
 * react-native-qrcode-scanner
